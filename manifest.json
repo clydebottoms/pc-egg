@@ -1,0 +1,7 @@
+{
+    "name": "Egg",
+    "description": "Send's an egg",
+    "author": "Clyde Bottoms",
+    "version":"0.1",
+    "license": "MIT"
+}
