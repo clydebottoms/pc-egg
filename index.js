@@ -32,8 +32,7 @@ module.exports = class egg extends Plugin {
   \`+ooooooooooooooo:      \n\
     -+ooooooooooo/\`       \n\
       \`.:////:-.          \n\
-      \`\`\`\
-      "
+      \`\`\`"
     };
   }
   
