@@ -17,22 +17,22 @@ module.exports = class egg extends Plugin {
       send: true,
       result: "\
        \`\`\`\n\
-       \`.---\`            \n\
-      -/oooooo+-          \n\
-    \`/oooooooooo+-        \n\
-   .oooooooooooooo:       \n\
-  \`oooooooooooooooo:      \n\
-  +ooooooooooooooooo-     \n\
- -oooooooooooooooooo+     \n\
- +ooooooooooooooooooo-    \n\
- oooooooooooooooooooo:    \n\
- oooooooooooooooooooo:    \n\
- /ooooooooooooooooooo.    \n\
- \`+ooooooooooooooooo:     \n\
-  \`+ooooooooooooooo:      \n\
-    -+ooooooooooo/\`       \n\
-      \`.:////:-.          \
-      \`\`\`"
+       \`.---\`\n\
+      -/oooooo+-\n\
+    \`/oooooooooo+-\n\
+   .oooooooooooooo:\n\
+  \`oooooooooooooooo:\n\
+  +ooooooooooooooooo-\n\
+ -oooooooooooooooooo+\n\
+ +ooooooooooooooooooo-\n\
+ oooooooooooooooooooo:\n\
+ oooooooooooooooooooo:\n\
+ /ooooooooooooooooooo.\n\
+ \`+ooooooooooooooooo:\n\
+  \`+ooooooooooooooo:\n\
+    -+ooooooooooo/\`\n\
+      \`.:////:-.\
+\`\`\`"
     };
   }
   
